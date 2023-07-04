@@ -2,7 +2,7 @@
 <p>Api desenvolvida com Spring boot</p>
 
 <br/>
-![Screenshot](fluxo.PNG)
+![Screenshot](fluxo.png)
 
 <br/>
 
