@@ -3,7 +3,7 @@
 
 <br/>
 
-![Screenshot](docs/oauth.png)
+![Screenshot](docs/oauth.jpg)
 
 <br/>
 
